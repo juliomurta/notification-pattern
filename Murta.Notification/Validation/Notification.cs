@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Murta.Validation
@@ -17,6 +18,16 @@ namespace Murta.Validation
 
         public void Add(string propertyName, string message)
         {
+            if (string.IsNullOrEmpty(propertyName))
+            {
+                throw new ArgumentException(nameof(propertyName));
+            }
+
+            if (string.IsNullOrEmpty(message))
+            {
+                throw new ArgumentException(nameof(message));
+            }
+
             if (!this.messages.Keys.Any(x => x == propertyName))
             {
                 this.messages.Add(propertyName, message);
@@ -24,6 +35,19 @@ namespace Murta.Validation
             else
             {
                 this.messages[propertyName] = message;
+            }
+        }
+
+        public void Remove(string propertyName)
+        {
+            if (string.IsNullOrEmpty(propertyName))
+            {
+                throw new ArgumentException(nameof(propertyName));
+            }
+
+            if (this.messages.Keys.Any(x => x == propertyName))
+            {
+                this.messages.Remove(propertyName);
             }
         }
 

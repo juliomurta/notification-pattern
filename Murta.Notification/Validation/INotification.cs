@@ -12,6 +12,8 @@ namespace Murta.Validation
 
         void Add(string propertyName, string message);
 
+        void Remove(string propertyName);
+
         Dictionary<string, string> GetMessages();
     }
 }

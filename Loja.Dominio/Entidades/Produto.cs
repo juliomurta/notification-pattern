@@ -28,6 +28,7 @@ namespace Loja.Dominio.Entidades
                 }
 
                 this.preco = value;
+                base.notification.Remove(nameof(this.Preco));
             }
         }
 
@@ -46,6 +47,7 @@ namespace Loja.Dominio.Entidades
                 }
 
                 this.descricao = value;
+                base.notification.Remove(nameof(this.Descricao));
             }
         }
     }

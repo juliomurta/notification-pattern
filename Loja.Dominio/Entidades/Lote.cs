@@ -36,6 +36,7 @@ namespace Loja.Dominio.Entidades
                 }
 
                 this.identificacao = value;
+                base.notification.Remove(nameof(this.Identificacao));
             }
         }
 
@@ -54,6 +55,7 @@ namespace Loja.Dominio.Entidades
                 }
 
                 this.quantidade = value;
+                base.notification.Remove(nameof(this.Quantidade));
             }
         }
 
@@ -78,6 +80,7 @@ namespace Loja.Dominio.Entidades
                 }
 
                 this.produto = value;
+                base.notification.Remove(nameof(this.Produto));
             }
         }
     }
