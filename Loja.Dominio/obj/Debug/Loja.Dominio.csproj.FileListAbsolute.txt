@@ -1,0 +1,8 @@
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Loja.Dominio\bin\Debug\Loja.Dominio.dll.config
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Loja.Dominio\bin\Debug\Loja.Dominio.dll
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Loja.Dominio\bin\Debug\Loja.Dominio.pdb
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Loja.Dominio\bin\Debug\Murta.Notification.dll
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Loja.Dominio\bin\Debug\Murta.Notification.pdb
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Loja.Dominio\obj\Debug\Loja.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Loja.Dominio\obj\Debug\Loja.Dominio.dll
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Loja.Dominio\obj\Debug\Loja.Dominio.pdb

@@ -1,0 +1,5 @@
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Murta.Notification\bin\Debug\Murta.Notification.dll
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Murta.Notification\bin\Debug\Murta.Notification.pdb
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Murta.Notification\obj\Debug\Murta.Notification.csprojResolveAssemblyReference.cache
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Murta.Notification\obj\Debug\Murta.Notification.dll
+C:\Users\JULIOMURTA\Documents\Visual Studio 2015\Projects\Udemy\Loja\Murta.Notification\obj\Debug\Murta.Notification.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Dominio", "Loja.Dominio\Loja.Dominio.csproj", "{899FD460-8C93-464E-8986-FBE1E933CEE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Murta.Notification", "Murta.Notification\Murta.Notification.csproj", "{16F7CE59-86F5-4712-89EB-4A3B98C5A2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Teste", "Loja.Teste\Loja.Teste.csproj", "{60252503-7633-484E-BB76-68D6E2E8C92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899FD460-8C93-464E-8986-FBE1E933CEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899FD460-8C93-464E-8986-FBE1E933CEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899FD460-8C93-464E-8986-FBE1E933CEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899FD460-8C93-464E-8986-FBE1E933CEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F7CE59-86F5-4712-89EB-4A3B98C5A2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F7CE59-86F5-4712-89EB-4A3B98C5A2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F7CE59-86F5-4712-89EB-4A3B98C5A2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F7CE59-86F5-4712-89EB-4A3B98C5A2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60252503-7633-484E-BB76-68D6E2E8C92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60252503-7633-484E-BB76-68D6E2E8C92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60252503-7633-484E-BB76-68D6E2E8C92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60252503-7633-484E-BB76-68D6E2E8C92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
